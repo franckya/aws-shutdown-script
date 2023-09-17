@@ -3,11 +3,11 @@ Get temporary sts credentials and shut down running instances on aws
 
 ## Prequistes: 
 
-To run the script I provided in the previous responses, you need to ensure that your environment meets the following requirements:
+To run the script, you need to ensure that your environment meets the following requirements:
 
 1. **Python Installed**: You need to have Python installed on your system. The script is written in Python.
 
-2. **AWS CLI Configuration**: You should have AWS CLI (Command Line Interface) configured with appropriate credentials and default region. You can configure it by running `aws configure` and providing your AWS access key, secret key, default region, and output format.
+2. **AWS CLI Configuration**: You should have AWS CLI configured with appropriate credentials and default region. You can configure it by running `aws configure` and providing your AWS access key, secret key, default region, and output format.
 
 3. **Boto3 Installed**: Install the `boto3` library, which is the AWS SDK for Python. You can install it using pip:
 
