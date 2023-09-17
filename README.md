@@ -1,4 +1,4 @@
-# aws-shutdown-script
+# AWS Shutdown Python Script
 Get temporary sts credentials and shut down running instances on aws
 
 ## Prequistes: 
